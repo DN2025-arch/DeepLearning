@@ -1,0 +1,14 @@
+Results:
+
+LR, Initial Learning Rate
+BS, Batch Size
+EP, Epochs
+AC, Accuracy
+
+LR: 0.01, BS:64, EP:10, AC:92.62%
+LR: 0.01, BS:32, EP:10, AC:95.34%
+LR: 0.01, BS:16, EP:10, AC:96.57%
+LR: 0.05, BS:64, EP:10, AC:96.83%
+LR: 0.10, BS:64, EP:10, AC:97.46%
+LR: 0.01, BS:64, EP:20, AC:93.18%
+LR: 0.10, BS:16, EP:20, AC:98.06%
